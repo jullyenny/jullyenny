@@ -1,4 +1,4 @@
-- 👋 Ola, Jully Enny
+- 👋 Ola, sou a Jully Enny
 - 👀 sejam bem vindos ao meu mundo.
 - 🌱 Estudando atualmente na turma 05 do Explorer da Rocketseat
 
